@@ -10,7 +10,7 @@ class Maopao
                 $n=$this->findFirstMin($arr,$m);
                 $this->move($arr,$m,$n);
             }
-            echo json_encode($arr);echo "\n";
+
         }
         return $arr;
     }

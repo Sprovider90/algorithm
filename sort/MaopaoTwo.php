@@ -1,7 +1,8 @@
 <?php
+//持续交换
 class MaopaoTwo
 {
-    function sort($arr,$sortd="desc"){
+    function sort($arr,$sortd="asc"){
         if($sortd=="desc"){
             return $this->desc($arr);
         }else{

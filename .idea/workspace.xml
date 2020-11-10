@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e211a34-317b-407f-aa12-3e79fa6be24f" name="Default Changelist" comment="" />
+    <list default="true" id="8e211a34-317b-407f-aa12-3e79fa6be24f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortV2/kuaisu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/Maopao.php" beforeDir="false" afterPath="$PROJECT_DIR$/sort/Maopao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/MaopaoTwo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sort/MaopaoTwo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/charu.php" beforeDir="false" afterPath="$PROJECT_DIR$/sort/charu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/xuanzeTwo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sort/xuanzeTwo.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +21,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1js36ixRT7yXmz0N4v6woWFkcy7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -33,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604578798095</updated>
-      <workItem from="1604578799595" duration="15497000" />
+      <workItem from="1604578799595" duration="35846000" />
     </task>
     <servers />
   </component>
@@ -41,9 +55,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="746" y="292" key="NewPhpClassDialog" timestamp="1604640045576">
+    <state x="746" y="292" key="NewPhpClassDialog" timestamp="1604906591166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="746" y="292" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604640045576" />
+    <state x="746" y="292" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604906591166" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 <?php
-
+//少量交换
 class xuanzeTwo
 {
     function sort($arr,$sortd="desc")
